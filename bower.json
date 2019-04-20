@@ -1,0 +1,13 @@
+{
+  "name": "b",
+  "description": "b",
+  "main": "",
+  "authors": [
+    "ibrahim <ibrahimgul2701@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ibrahimgul01/pt",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
